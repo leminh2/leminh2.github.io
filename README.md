@@ -5,7 +5,7 @@ Institute of Theoretical Sciences — Mathematical Fluid Dynamics Group
 
 📍 Hangzhou, China  
 📧 leminh@westlake.edu.cn  
-🌐 [Personal site](https://sites.google.com/view/minh-les-site) | [ResearchGate](https://www.researchgate.net/profile/Minh-Le-166) | [ORCID](https://orcid.org/0000-0003-4059-6294)
+🌐 [ResearchGate](https://www.researchgate.net/profile/Minh-Le-166) | [ORCID](https://orcid.org/0000-0003-4059-6294)
 
 ---
 
