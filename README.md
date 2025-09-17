@@ -1,5 +1,4 @@
 # Minh Le
-![image alt](https://github.com/leminh2/leminh2.github.io/blob/main/IMG_3099.JPG?raw=true)
 Postdoctoral Researcher @ Westlake University  
 Institute of Theoretical Sciences — Mathematical Fluid Dynamics Group  
 
