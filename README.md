@@ -1,6 +1,9 @@
 # Minh Le
+<img src="photo.jpg" alt="Minh Le" width="200" style="border-radius: 12px; display: block; margin: auto;" />
+
 Postdoctoral Researcher @ Westlake University  
 Institute of Theoretical Sciences — Mathematical Fluid Dynamics Group  
+
 
 📍 Hangzhou, China  
 📧 leminh@westlake.edu.cn  
