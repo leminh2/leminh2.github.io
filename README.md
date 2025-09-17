@@ -1,17 +1,3 @@
----
-title: Minh Le
-description: text below image
-show_download: true
----
-
-<figure>
-  <img src="/assets/images/IMG_3099.JPG" alt="Minh Le" style="width:150px;">
-  <figcaption>Minh Le</figcaption>
-</figure>
-
-Welcome to my website! Here is some text below my image.
-
-
 # Minh Le
 
 Postdoctoral Researcher @ Westlake University  
