@@ -1,5 +1,5 @@
 title: Minh Le
-logo: IMG_3099.JPG
-#description: text below image
-#show_download: true
+logo: /assets/images/IMG_3099.JPG
+description: text below image
+show_download: true
 theme: jekyll-theme-minimal
