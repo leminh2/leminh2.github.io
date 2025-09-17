@@ -45,14 +45,13 @@ Partial Differential Equations, Chemotaxis models
 ---
 
 ### Preprints
-- Persistence of positive classical solutions in a logistic chemotaxis system with weak singular sensitivity. Submitted to DCDS-B.  
-- A study of some chemotaxis systems with singular sensitivity and nonlocal quadratic degradation damping in 2D. Submitted to *Physica Scripta*.  
-- Absence of blow-up in a fully parabolic chemotaxis system with weak singular sensitivity and logistic damping in dimension two. Submitted to *Mathematical Methods in the Applied Sciences*.  
-- Boundedness in chemotaxis systems with general weak singular sensitivity and logistic sources. Submitted to JDE.  
-- An improvement toward global boundedness in a fully parabolic chemotaxis with singular sensitivity in any dimension. Submitted to *Physica Scripta*.  
-- Application of the Moser–Trudinger inequality and Parabolic Regularity in Orlicz spaces to a sub-linear sensitivity chemotaxis-fluid system. Submitted to *Journal of Evolution Equations*.  
-- Global dynamics of solutions in a logistic chemotaxis system with weak singular sensitivity and signal absorption. Submitted to *Nonlinear Analysis: Real World Applications*.  
-
+- Persistence of positive classical solutions in a logistic chemotaxis system with weak singular sensitivity.  
+- A study of some chemotaxis systems with singular sensitivity and nonlocal quadratic degradation damping in 2D.  
+- Absence of blow-up in a fully parabolic chemotaxis system with weak singular sensitivity and logistic damping in dimension two. 
+- Boundedness in chemotaxis systems with general weak singular sensitivity and logistic sources.
+- An improvement toward global boundedness in a fully parabolic chemotaxis with singular sensitivity in any dimension.   
+- Application of the Moser–Trudinger inequality and Parabolic Regularity in Orlicz spaces to a sub-linear sensitivity chemotaxis-fluid system. 
+- Global dynamics of solutions in a logistic chemotaxis system with weak singular sensitivity and signal absorption.
 ---
 
 ### Talks
