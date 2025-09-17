@@ -111,8 +111,8 @@ Partial Differential Equations, Chemotaxis models
 
 ### References
 - Prof. Alexey Cheskidov — [Westlake University](https://en.westlake.edu.cn/faculty/alexey-cheskidov.html)  
-- Prof. Zhengfang Zhou — [MSU](https://users.math.msu.edu/users/zfzhou/)  
-- Prof. Baisheng Yan — [MSU](https://users.math.msu.edu/users/yanb/)  
-- Prof. Jun Kitagawa — [MSU](https://users.math.msu.edu/users/jun/)  
-- Prof. Willie Wong — [Personal site](https://qnlw.info/)  
-- Prof. Olga Turanova — [MSU](https://sites.google.com/msu.edu/turanova/home)  
+- Prof. Zhengfang Zhou — [Michigan State University](https://users.math.msu.edu/users/zfzhou/)  
+- Prof. Baisheng Yan — [Michigan State University](https://users.math.msu.edu/users/yanb/)  
+- Prof. Jun Kitagawa — [Michigan State University](https://users.math.msu.edu/users/jun/)  
+- Prof. Willie Wong — [Michigan State University](https://qnlw.info/)  
+- Prof. Olga Turanova — [Michigan State University](https://sites.google.com/msu.edu/turanova/home)  
