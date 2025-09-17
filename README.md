@@ -1,6 +1,6 @@
 # Minh Le
 Postdoctoral Researcher @ Westlake University  
-Institute of Theoretical Sciences — Mathematical Fluid Dynamics Group  
+Institute for Theoretical Sciences — Mathematical Fluid Dynamics Group  
 
 
 📍 Hangzhou, China  
