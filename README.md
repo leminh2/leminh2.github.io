@@ -34,15 +34,15 @@ Partial Differential Equations, Chemotaxis models
 1. Global existence of solutions to the chemotaxis system with logistic source under nonlinear Neumann boundary condition. *Journal of Differential Equations* 377 (2023), 1–37. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0022039623005739)  
 2. Blow-up prevention by sub-logistic sources in Keller–Segel cross diffusion type system. *DCDS-B* 29 (2024), 796–811. [Link](https://www.aimsciences.org/article/doi/10.3934/dcdsb.2023114)  
 3. Global existence of solutions in two-species chemotaxis system with two chemicals with sub-logistic sources in 2D. *Applied Mathematics Letters* 149 (2024), 108925. [Link](https://authors.elsevier.com/sd/article/S0893-9659(23)00357-9)  
-4. Global existence of solutions in some chemotaxis systems with sub-logistic source under nonlinear Neumann boundary conditions in 2D. *Nonlinear Analysis* 241 (2024), 113491.  
-5. Blow-up prevention by sub-logistic sources in 2D Keller–Segel chemotaxis system with superlinear signal production. *ZAMP* 75:128 (2024).  
-6. Global existence of solutions to some degenerate chemotaxis systems with superlinear growth in cross-diffusion rates and logistic sources. *Nonlinear Analysis: Real World Applications* 80 (2024), 104168.  
-7. Boundedness in a chemotaxis system with weakly singular sensitivity in dimension two with arbitrary sub-quadratic degradation sources. *JMAA* (2024), 128803.  
-8. Global boundedness in a chemotaxis-growth system with weak singular sensitivity in any dimension (with H. I. Kurt). *Nonlinear Analysis: Real World Applications* 86 (2025), 104392.  
-9. Global existence of solutions to the fully parabolic chemotaxis system with logistic source under nonlinear Neumann boundary conditions. *Vietnam Journal of Mathematics* (2025).  
-10. Global existence of solutions in a chemotaxis consumption system with signal dependent motility and logistic sources. *NoDEA* 32:61 (2025).  
-11. Global boundedness in the higher-dimensional fully parabolic chemotaxis with weak singular sensitivity and logistic source. *DCDS-B* Early Access (2025).  
-12. Can logistic damping prevent blow-up for weak singular sensitivity chemotaxis systems under nonlinear boundary conditions? *ZAMP* 76:164 (2025), with L. Bao and H. I. Kurt.  
+4. Global existence of solutions in some chemotaxis systems with sub-logistic source under nonlinear Neumann boundary conditions in 2D. *Nonlinear Analysis* 241 (2024), 113491. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0362546X24000105)  
+5. Blow-up prevention by sub-logistic sources in 2D Keller–Segel chemotaxis system with superlinear signal production. *ZAMP* 75:128 (2024). [Link](https://link.springer.com/article/10.1007/s00033-024-02270-3)  
+6. Global existence of solutions to some degenerate chemotaxis systems with superlinear growth in cross-diffusion rates and logistic sources. *Nonlinear Analysis: Real World Applications* 80 (2024), 104168. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1468121824001081)  
+7. Boundedness in a chemotaxis system with weakly singular sensitivity in dimension two with arbitrary sub-quadratic degradation sources. *JMAA* (2024), 128803. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0022247X2400725X)  
+8. Global boundedness in a chemotaxis-growth system with weak singular sensitivity in any dimension (with H. I. Kurt). *Nonlinear Analysis: Real World Applications* 86 (2025), 104392. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1468121825000781)  
+9. Global existence of solutions to the fully parabolic chemotaxis system with logistic source under nonlinear Neumann boundary conditions. *Vietnam Journal of Mathematics* (2025). [Link](https://link.springer.com/article/10.1007/s10013-025-00751-0)  
+10. Global existence of solutions in a chemotaxis consumption system with signal dependent motility and logistic sources. *NoDEA* 32:61 (2025). [Link](https://link.springer.com/article/10.1007/s00030-025-01065-3)  
+11. Global boundedness in the higher-dimensional fully parabolic chemotaxis with weak singular sensitivity and logistic source. *DCDS-B* Early Access (2025). [Link](https://www.aimsciences.org/article/doi/10.3934/dcdsb.2025087) 
+12. Can logistic damping prevent blow-up for weak singular sensitivity chemotaxis systems under nonlinear boundary conditions? *ZAMP* 76:164 (2025), with L. Bao and H. I. Kurt. [Link](https://link.springer.com/article/10.1007/s00033-025-02550-6)  
 
 ---
 
@@ -89,7 +89,7 @@ Partial Differential Equations, Chemotaxis models
 ---
 
 ### Teaching Experience
-- Teaching Assistant, Westlake University (2025–)  
+- Teaching Assistant, Westlake University (Spring 2025)  
   *Linear Algebra (Track B), Probability & Statistics (Track B)*  
 
 - Teaching Assistant, Michigan State University (2018–2024)  
