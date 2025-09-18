@@ -54,6 +54,7 @@ Partial Differential Equations, Chemotaxis models
 - An improvement toward global boundedness in a fully parabolic chemotaxis with singular sensitivity in any dimension.   
 - Application of the Moser–Trudinger inequality and Parabolic Regularity in Orlicz spaces to a sub-linear sensitivity chemotaxis-fluid system. 
 - Global dynamics of solutions in a logistic chemotaxis system with weak singular sensitivity and signal absorption.
+  
 ---
 
 ### Talks
