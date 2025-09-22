@@ -42,12 +42,12 @@ Partial Differential Equations, Chemotaxis models
 9. Global existence of solutions to the fully parabolic chemotaxis system with logistic source under nonlinear Neumann boundary conditions. *Vietnam Journal of Mathematics* (2025). [Link](https://link.springer.com/article/10.1007/s10013-025-00751-0)  
 10. Global existence of solutions in a chemotaxis consumption system with signal dependent motility and logistic sources. *NoDEA* 32:61 (2025). [Link](https://link.springer.com/article/10.1007/s00030-025-01065-3)  
 11. Global boundedness in the higher-dimensional fully parabolic chemotaxis with weak singular sensitivity and logistic source. *DCDS-B* Early Access (2025). [Link](https://www.aimsciences.org/article/doi/10.3934/dcdsb.2025087) 
-12. Can logistic damping prevent blow-up for weak singular sensitivity chemotaxis systems under nonlinear boundary conditions? *ZAMP* 76:164 (2025), with L. Bao and H. I. Kurt. [Link](https://link.springer.com/article/10.1007/s00033-025-02550-6)  
+12. Can logistic damping prevent blow-up for weak singular sensitivity chemotaxis systems under nonlinear boundary conditions? *ZAMP* 76:164 (2025), with L. Bao and H. I. Kurt. [Link](https://link.springer.com/article/10.1007/s00033-025-02550-6)
+13. Persistence of positive classical solutions in a logistic chemotaxis system with weak singular sensitivity. *DCDS-B* Early Access (2025). [Link](https://www.aimsciences.org/article/doi/10.3934/dcdsb.2025149)
 
 ---
 
-### Preprints
-- Persistence of positive classical solutions in a logistic chemotaxis system with weak singular sensitivity.  
+### Preprints 
 - A study of some chemotaxis systems with singular sensitivity and nonlocal quadratic degradation damping in 2D.  
 - Absence of blow-up in a fully parabolic chemotaxis system with weak singular sensitivity and logistic damping in dimension two. 
 - Boundedness in chemotaxis systems with general weak singular sensitivity and logistic sources.
