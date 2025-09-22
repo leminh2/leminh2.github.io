@@ -48,7 +48,6 @@ Partial Differential Equations, Chemotaxis models
 ---
 
 ### Preprints 
-- A study of some chemotaxis systems with singular sensitivity and nonlocal quadratic degradation damping in 2D.  
 - Absence of blow-up in a fully parabolic chemotaxis system with weak singular sensitivity and logistic damping in dimension two. 
 - Boundedness in chemotaxis systems with general weak singular sensitivity and logistic sources.
 - An improvement toward global boundedness in a fully parabolic chemotaxis with singular sensitivity in any dimension.   
