@@ -43,7 +43,7 @@ Partial Differential Equations, Chemotaxis models
 10. Global existence of solutions in a chemotaxis consumption system with signal dependent motility and logistic sources. *NoDEA* 32:61 (2025). [Link](https://link.springer.com/article/10.1007/s00030-025-01065-3)  
 11. Global boundedness in the higher-dimensional fully parabolic chemotaxis with weak singular sensitivity and logistic source. *DCDS-B* Early Access (2025). [Link](https://www.aimsciences.org/article/doi/10.3934/dcdsb.2025087) 
 12. Can logistic damping prevent blow-up for weak singular sensitivity chemotaxis systems under nonlinear boundary conditions? *ZAMP* 76:164 (2025), with L. Bao and H. I. Kurt. [Link](https://link.springer.com/article/10.1007/s00033-025-02550-6)
-13. Persistence of positive classical solutions in a logistic chemotaxis system with weak singular sensitivity. *DCDS-B* Early Access (2025). [Link](https://www.aimsciences.org/article/doi/10.3934/dcdsb.2025149)
+13. Persistence of positive classical solutions in a logistic chemotaxis system with weak singular sensitivity. *DCDS-B* Early Access (2025), with H. I. Kurt. [Link](https://www.aimsciences.org/article/doi/10.3934/dcdsb.2025149)
 
 ---
 
