@@ -1,3 +1,7 @@
+---
+title: CV
+---
+
 # Minh Le
 Postdoctoral Researcher @ Westlake University  
 Institute for Theoretical Sciences — Mathematical Fluid Dynamics Group  
