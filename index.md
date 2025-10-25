@@ -1,6 +1,3 @@
-![IMG_3099.JPG](IMG_3099.JPG)
-
-*Picture taken in 2023 in East Lansing, Michigan*
 
 # Welcome!
 
