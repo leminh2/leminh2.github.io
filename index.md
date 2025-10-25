@@ -1,3 +1,7 @@
+![IMG_3099.JPG](IMG_3099.JPG)
+
+*Picture taken in 2023 in East Lansing, Michigan*
+
 # Welcome!
 
 Hello! My name is **Minh Le**, and I am a **postdoctoral researcher** at the **Institute for Theoretical Sciences, Westlake University**, China.  
