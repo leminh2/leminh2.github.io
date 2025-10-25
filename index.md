@@ -10,4 +10,4 @@ Through my work, I aim to deepen the mathematical understanding of complex biolo
 
 ---
 
-📄 **Find my CV and more information** → [Click here](./README.md)
+📄 **Find my CV and more information** → [Click here](./README)
