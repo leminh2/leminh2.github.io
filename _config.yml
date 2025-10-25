@@ -3,6 +3,3 @@ logo: IMG_3099.JPG
 #description: text below image
 #show_download: true
 theme: jekyll-theme-minimal
-git add _config.yml index.md
-git commit -m "Add introduction to homepage"
-git push
