@@ -1,6 +1,3 @@
----
-title: CV
----
 
 # Minh Le
 Postdoctoral Researcher @ Westlake University  
