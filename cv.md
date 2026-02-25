@@ -48,15 +48,18 @@ Partial Differential Equations, Chemotaxis models
 11. Global boundedness in the higher-dimensional fully parabolic chemotaxis with weak singular sensitivity and logistic source. *DCDS-B* Early Access (2025). [Link](https://www.aimsciences.org/article/doi/10.3934/dcdsb.2025087) 
 12. Can logistic damping prevent blow-up for weak singular sensitivity chemotaxis systems under nonlinear boundary conditions? *ZAMP* 76:164 (2025), with L. Bao and H. I. Kurt. [Link](https://link.springer.com/article/10.1007/s00033-025-02550-6)
 13. Persistence of positive classical solutions in a logistic chemotaxis system with weak singular sensitivity. *DCDS-B* Early Access (2025), with H. I. Kurt. [Link](https://www.aimsciences.org/article/doi/10.3934/dcdsb.2025149)
-14. Boundedness in chemotaxis systems with general weak singular sensitivity and logistic sources. *Journal of Differential Equations* 453 (2026), 113860. [Link](https://www.sciencedirect.com/science/article/pii/S0022039625008873?via%3Dihub)  
+14. Boundedness in chemotaxis systems with general weak singular sensitivity and logistic sources. *Journal of Differential Equations* 453 (2026), 113860. [Link](https://www.sciencedirect.com/science/article/pii/S0022039625008873?via%3Dihub)
+15. Absence of blow-up in a fully parabolic chemotaxis system with weak singular sensitivity and logistic damping in dimension two. *Mathematical Methods in the Applied Sciences* (2025). [Link](https://onlinelibrary.wiley.com/doi/10.1002/mma.70396)
+16. An improvement toward global boundedness in a fully parabolic chemotaxis with singular sensitivity in any dimension. *Nonlinear Analysis* 268 (2026), 114082. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0362546X26000283?via%3Dihub)
+17. Application of the Moser–Trudinger inequality and Parabolic Regularity in Orlicz spaces to a sub-linear sensitivity chemotaxis-fluid system. *J. Evol. Equ.* 26 (2026). [Link](https://link.springer.com/article/10.1007/s00028-025-01164-9)
+18. Global dynamics of solutions in a logistic chemotaxis system with weak singular sensitivity and signal absorption. *Communications in Nonlinear Science and Numerical Simulation* 151 (2026). [Link](https://www.sciencedirect.com/science/article/abs/pii/S1007570425009724?via%3Dihub)
 
 ---
 
 ### Preprints 
-- Absence of blow-up in a fully parabolic chemotaxis system with weak singular sensitivity and logistic damping in dimension two. 
-- An improvement toward global boundedness in a fully parabolic chemotaxis with singular sensitivity in any dimension.   
-- Application of the Moser–Trudinger inequality and Parabolic Regularity in Orlicz spaces to a sub-linear sensitivity chemotaxis-fluid system. 
-- Global dynamics of solutions in a logistic chemotaxis system with weak singular sensitivity and signal absorption.
+- A Sharp Global Boundedness Result for Keller–Segel–(Navier–)Stokes Systems with Rapid Diffusion and Saturated Sensitivities
+- Global dynamics of a logistic chemotaxis system with weak singular sensitivity and signal absorption in any spatial dimension
+- Global boundedness and absorbing sets in two-dimensional chemotaxis–Navier–Stokes systems with weakly singular sensitivity and a sub-logistic source 
   
 ---
 
